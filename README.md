@@ -65,4 +65,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 ## 👥 Geliştirici
 
-- [İsim Soyisim] - [GitHub Profil Linki]
+- Oğuzhan Duran

@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "yemek-tarifleri",
+    "name": "Yemek Tarifleri - 2025",
     "slug": "yemek-tarifleri",
-    "version": "3.0.0",
+    "version": "3.1.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/app-icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -20,8 +20,9 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "label": "Yemek Tarifleri - 2025",
       "package": "com.oguzdurandijital.yemektarifleri",
-      "versionCode": 3
+      "versionCode": 4
     },
     "web": {
       "favicon": "./assets/favicon.png"
